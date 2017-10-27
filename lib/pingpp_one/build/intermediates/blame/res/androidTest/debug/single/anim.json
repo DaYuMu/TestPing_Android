@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dialog_enter.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\cmbkb_push_bottom_out.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\anim\\cmbkb_push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\dialog_exit.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\cmbkb_push_bottom_in.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\anim\\cmbkb_push_bottom_in.xml"
+    }
+]

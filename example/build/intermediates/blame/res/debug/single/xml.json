@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\xml\\cmbkb_number_with_change.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\xml\\cmbkb_number_with_change.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\xml\\cmbkb_qwerty.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\xml\\cmbkb_qwerty.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\xml\\cmbkb_number_with_x.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\xml\\cmbkb_number_with_x.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\xml\\cmbkb_number_with_dot.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\xml\\cmbkb_number_with_dot.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\xml\\cmbkb_symbols.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\xml\\cmbkb_symbols.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\xml\\cmbkb_number_symbols.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\xml\\cmbkb_number_symbols.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\xml\\cmbkb_number.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\xml\\cmbkb_number.xml"
+    }
+]

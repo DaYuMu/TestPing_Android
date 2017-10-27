@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:1:1-101:12
+	package
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:2:5-39
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:4:5-30
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:3:5-28
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:6:5-8:41
+MERGED from [TestPing_Android.lib:pingpp_one:unspecified] E:\workspace\jse\TestPing_Android\example\build\intermediates\exploded-aar\TestPing_Android.lib\pingpp_one\unspecified\AndroidManifest.xml:5:5-7:41
+MERGED from [TestPing_Android.lib:pingpp:unspecified] E:\workspace\jse\TestPing_Android\example\build\intermediates\exploded-aar\TestPing_Android.lib\pingpp\unspecified\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:8:9-38
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:7:9-35
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+		INJECTED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.NFC
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:16:5-62
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:16:22-59
+uses-permission-sdk-23
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:17:29-79
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.READ_SMS
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:24:22-64
+application
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:26:5-99:19
+	android:label
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:28:9-40
+	android:icon
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:27:9-39
+	android:theme
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:29:9-37
+activity#com.pingplusplus.demoapp.MainActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:32:9-40:20
+	android:screenOrientation
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:33:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:38:27-74
+activity#com.pingplusplus.demoapp.ClientSDKActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:41:19-76
+activity#com.pingplusplus.android.PaymentActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:44:9-59:20
+	android:launchMode
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:47:13-43
+	android:configChanges
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:46:13-59
+	android:theme
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:48:13-72
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:45:13-68
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:50:13-57:29
+action#android.intent.action.VIEW
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:51:25-66
+category#android.intent.category.BROWSABLE
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:53:27-75
+category#android.intent.category.DEFAULT
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:54:17-75
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:54:27-73
+data
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:56:17-57
+	android:scheme
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:56:23-55
+activity-alias#com.pingplusplus.demoapp.wxapi.WXPayEntryActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:62:9-65:81
+	android:exported
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:64:13-36
+	android:targetActivity
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:65:13-78
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:63:13-53
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:68:9-73:20
+	android:screenOrientation
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:72:13-47
+	android:exported
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:71:13-37
+	android:configChanges
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:70:13-74
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:69:13-60
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:74:9-79:20
+	android:screenOrientation
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:78:13-47
+	android:exported
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:77:13-37
+	android:configChanges
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:76:13-74
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:75:13-60
+activity#com.unionpay.uppay.PayActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:82:9-84:88
+	android:configChanges
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:84:13-85
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:83:13-58
+activity#com.pingplusplus.demoapp.OneSDKActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:86:9-88:20
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:87:13-43
+activity#com.pingplusplus.libone.PayActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:91:9-94:63
+	android:configChanges
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:93:13-59
+	android:theme
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:94:13-61
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:92:13-63
+activity#com.pingplusplus.libone.PaySuccessActivity
+ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:95:9-97:61
+	android:configChanges
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:97:13-59
+	android:name
+		ADDED from E:\workspace\jse\TestPing_Android\example\AndroidManifest.xml:96:13-70

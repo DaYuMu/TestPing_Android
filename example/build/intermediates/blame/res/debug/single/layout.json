@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\pingpp_activity_pay.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp_one\\unspecified\\res\\layout\\pingpp_activity_pay.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\pingpp_activity_pay_successed.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp_one\\unspecified\\res\\layout\\pingpp_activity_pay_successed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\pingpp_pay_channel_item.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp_one\\unspecified\\res\\layout\\pingpp_pay_channel_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pay_way_dialog.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp_one\\unspecified\\res\\layout\\fragment_pay_way_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\goods_item.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\res\\layout\\goods_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\activity_client_sdk.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\res\\layout\\activity_client_sdk.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pingpp_payment.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\layout\\activity_pingpp_payment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\pingpp_bill_item.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp_one\\unspecified\\res\\layout\\pingpp_bill_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\cmbkeyboard.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\layout\\cmbkeyboard.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\example\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yi_shou_kuan.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\example\\res\\layout\\activity_yi_shou_kuan.xml"
+    }
+]
