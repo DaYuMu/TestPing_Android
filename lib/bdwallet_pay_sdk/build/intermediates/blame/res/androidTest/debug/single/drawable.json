@@ -1,23 +1,23 @@
 [
     {
-        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_dialog_btn_selector.xml",
-        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\wallet_base_dialog_btn_selector.xml"
-    },
-    {
         "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_dialog_rightbtn_selector.xml",
         "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\wallet_base_dialog_rightbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_dialog_btn_selector.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\wallet_base_dialog_btn_selector.xml"
     },
     {
         "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_select_bank_item_selector.xml",
         "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\wallet_base_select_bank_item_selector.xml"
     },
     {
-        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_neg_btn_bg.xml",
-        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\wallet_base_neg_btn_bg.xml"
-    },
-    {
         "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_bg_clear_selector.xml",
         "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\wallet_base_bg_clear_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_neg_btn_bg.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\wallet_base_neg_btn_bg.xml"
     },
     {
         "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\bdwallet_pay_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wallet_base_loading.xml",

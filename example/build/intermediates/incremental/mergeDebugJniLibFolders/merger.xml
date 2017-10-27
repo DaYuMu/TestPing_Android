@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\workspace\jse\TestPing_Android\example\libs"><file name="android-support-v4.jar" path="E:\workspace\jse\TestPing_Android\example\libs\android-support-v4.jar"/><file name="org.simalliance.openmobileapi.jar" path="E:\workspace\jse\TestPing_Android\example\libs\org.simalliance.openmobileapi.jar"/></source></dataSet><dataSet config="debug"><source path="E:\workspace\jse\TestPing_Android\example\src\debug\jniLibs"/></dataSet></merger>
