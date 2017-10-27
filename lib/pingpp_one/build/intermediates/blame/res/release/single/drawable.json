@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\release\\drawable\\pingpp_common_pay_button_blue.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\res\\drawable\\pingpp_common_pay_button_blue.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\release\\drawable\\pingpp_common_pay_channel_btton.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\res\\drawable\\pingpp_common_pay_channel_btton.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\release\\drawable\\pingpp_common_pay_button_green.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\res\\drawable\\pingpp_common_pay_button_green.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\release\\drawable\\pingpp_channel_item_selector.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\res\\drawable\\pingpp_channel_item_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\release\\drawable\\cmbkb_btn_keyboard_key.xml",
+        "source": "E:\\workspace\\jse\\TestPing_Android\\lib\\pingpp_one\\build\\intermediates\\exploded-aar\\TestPing_Android.lib\\pingpp\\unspecified\\res\\drawable\\cmbkb_btn_keyboard_key.xml"
+    }
+]
